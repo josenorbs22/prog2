@@ -1,0 +1,72 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Images/png/enemyShip.png</file>
+        <file>Images/png/enemyUFO.png</file>
+        <file>Images/png/laserGreen.png</file>
+        <file>Images/png/laserGreenShot.png</file>
+        <file>Images/png/laserRed.png</file>
+        <file>Images/png/laserRedShot.png</file>
+        <file>Images/png/life.png</file>
+        <file>Images/png/meteorBig.png</file>
+        <file>Images/png/meteorSmall.png</file>
+        <file>Images/png/player.png</file>
+        <file>Images/png/playerDamaged.png</file>
+        <file>Images/png/playerLeft.png</file>
+        <file>Images/png/playerRight.png</file>
+        <file>Images/png/shield.png</file>
+        <file>Images/png/Background/backgroundColor.png</file>
+        <file>Images/png/Background/nebula.png</file>
+        <file>Images/png/Background/speedLine.png</file>
+        <file>Images/png/Background/starBackground.png</file>
+        <file>Images/png/Background/starBig.png</file>
+        <file>Images/png/Background/starSmall.png</file>
+        <file>Images/tank_sprites/moving_1.png</file>
+        <file>Images/tank_sprites/moving_2.png</file>
+        <file>Images/tank_sprites/moving_3.png</file>
+        <file>Images/tank_sprites/moving_4.png</file>
+        <file>Images/tank_sprites/moving_5.png</file>
+        <file>Images/tank_sprites/moving_6.png</file>
+        <file>Images/tank_sprites/moving_7.png</file>
+        <file>Images/tank_sprites/moving_8.png</file>
+        <file>Images/tank_sprites/moving_9.png</file>
+        <file>Images/tank_sprites/moving_10.png</file>
+        <file>Images/tank_sprites/moving_11.png</file>
+        <file>Images/tank_sprites/moving_12.png</file>
+        <file>Images/tank_sprites/moving_13.png</file>
+        <file>Images/tank_sprites/moving_14.png</file>
+        <file>Images/tank_sprites/moving_15.png</file>
+        <file>Images/tank_sprites/moving_16.png</file>
+        <file>Images/tank_sprites/moving_17.png</file>
+        <file>Images/tank_sprites/moving_18.png</file>
+        <file>Images/tank_sprites/moving_19.png</file>
+        <file>Images/tank_sprites/moving_20.png</file>
+        <file>Images/jet_sprites/moving_1.png</file>
+        <file>Images/jet_sprites/moving_2.png</file>
+        <file>Images/jet_sprites/moving_3.png</file>
+        <file>Images/jet_sprites/moving_4.png</file>
+        <file>Images/jet_sprites/moving_5.png</file>
+        <file>Images/heli_sprites/moving_1.png</file>
+        <file>Images/heli_sprites/moving_2.png</file>
+        <file>Images/heli_sprites/moving_3.png</file>
+        <file>Images/heli_sprites/moving_4.png</file>
+        <file>Images/heli_sprites/moving_5.png</file>
+        <file>Images/heli_sprites/moving_6.png</file>
+        <file>Images/heli_sprites/moving_7.png</file>
+        <file>Images/heli_sprites/moving_8.png</file>
+        <file>Images/heli_sprites/moving_9.png</file>
+        <file>Images/missile_sprites/missile_1.png</file>
+        <file>Images/missile_sprites/missile_2.png</file>
+        <file>Images/missile_sprites/missile_3.png</file>
+        <file>Images/missile_sprites/missile_4.png</file>
+        <file>Images/missile_sprites/missile_5.png</file>
+        <file>Images/missile_sprites/missile_6.png</file>
+        <file>Images/png/hamburger_button.png</file>
+        <file>Images/fotoPerfil.png</file>
+        <file>Images/png/Background/metalBackground.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>Sounds/Hall of the Mountain King.mp3</file>
+        <file>Sounds/Laser.mp3</file>
+        <file>Sounds/The Offspring - Hit that.mp3</file>
+    </qresource>
+</RCC>
